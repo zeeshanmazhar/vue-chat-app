@@ -1,4 +1,8 @@
-# vue-firechat
+# Vue Firebase Chat app
+
+CHAT APP in VUE and FIREBASE using Vue's Composition API
+
+note: Add firebase database credentials in database.js
 
 ## Project setup
 ```
